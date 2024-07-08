@@ -44,7 +44,7 @@ Puedes probarlo de dos maneras: descargando una copia en tu computadora o direct
 
 **Demo:**
 
-(https://encriptador-texto-steel.vercel.app/)
+https://encriptador-texto-steel.vercel.app/
 
 ## Construido
 
@@ -52,3 +52,6 @@ _Para desarrollar el proyecto, utilice las siguientes herramientas:_
 
 * [Trello](https://trello.com/es) - Herramienta de gestión de proyectos.
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web.
+
+  **Linkedin:**
+  www.linkedin.com/in/nohemi-gutierrez-844b55235
