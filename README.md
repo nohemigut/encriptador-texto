@@ -34,17 +34,17 @@ La letra "u" es convertida en "ufat"
 
 Sigue estas instrucciones para obtener una copia del proyecto y ponerlo en funcionamiento en tu máquina local para desarrollo y pruebas.
 
-### Pre-requisitos 📋
+### Pre-requisitos
 
 No se necesitan programas especiales para probar el Encriptador de texto, solo un navegador web
 
-### Instalación 🔧
+### Instalación
 
 Puedes probarlo de dos maneras: descargando una copia en tu computadora o directamente desde GitHub Pages.
 
 **Demo:**
 
-![Demo](https://encriptador-texto-steel.vercel.app/)
+(https://encriptador-texto-steel.vercel.app/)
 
 ## Construido
 
